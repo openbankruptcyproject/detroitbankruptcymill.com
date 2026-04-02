@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://detroitbankruptcymill.com/sitemap.xml
